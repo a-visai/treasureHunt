@@ -1,0 +1,23 @@
+.Board {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: center;
+  width: 400px;
+  margin-left: 400px;
+}
+
+.Box {
+  height: 100px;
+  width: 100px;
+  border: 1px solid Black;
+
+}
+
+img {
+  max-width: 100%
+}
+
+h1 {
+  text-align: center;
+}
